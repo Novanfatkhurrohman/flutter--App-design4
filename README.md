@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Exmple picture Clone https://github.com/afgprogrammer
+![new](https://user-images.githubusercontent.com/37931222/118575102-e4293e00-b7af-11eb-8253-0ac2c6817995.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
